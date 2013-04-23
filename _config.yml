@@ -1,0 +1,10 @@
+---
+exclude: ['params.json']
+pygments: true
+safe: true
+
+name: WiredGeek
+url: http://jredding.github.io/new-site/
+author: Jacob Redding
+email: Jacobredding@gmail.com
+# ga: 'UA-XXXXXXX-X'
