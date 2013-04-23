@@ -3,7 +3,7 @@ exclude: ['params.json']
 pygments: true
 safe: true
 
-name: WiredGeek
+name: Jacob Redding
 url: http://jredding.github.io/new-site/
 author: Jacob Redding
 email: Jacobredding@gmail.com
