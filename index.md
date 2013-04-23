@@ -1,5 +1,5 @@
 ---
-title: 'Jredding.info'
+title: 'Jacob Redding'
 
 layout: default
 ---
