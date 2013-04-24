@@ -2,6 +2,7 @@
 exclude: ['params.json']
 pygments: true
 safe: true
+permalink: /:categories/:title
 
 name: Jacob Redding
 url: http://jredding.github.io/new-site/
