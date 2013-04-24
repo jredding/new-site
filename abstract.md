@@ -1,7 +1,7 @@
 ---
 published: true
 title: Abstract
-layout: post
+layout: default
 ---
 
 This paper details how open source software (OSS) development communities maintain an ecosystem
