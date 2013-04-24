@@ -53,4 +53,4 @@ Development,” Management Science, 52(7): 1000-1014.
 O’Mahony, Siobhán and Beth A. Bechky (2008). “Boundary Organizations: Enabling Collaboration among Unexpected
 Allies,” Administrative Science Quarterly, 53: 422-459.
 
-[Download the PDF](/research/docs/SMS_Fostering_Resilient_Innovation_Handout.pdf "Download the PDF")
+[Download the PDF](research/docs/SMS_Fostering_Resilient_Innovation_Handout.pdf "Download the PDF")
