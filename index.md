@@ -3,7 +3,7 @@ title: 'front'
 layout: default
 ---
 
-This is the frontpage
+This is the frontpageis
 ## Blog
 
 {% for post in site.posts %}
