@@ -1,8 +1,10 @@
 ---
-title: 'About'
+title: 'about'
 layout: default
-published: true
 ---
+
+This is the frontpage
+## About Me
 
 I'm a strategist, developer, analyst, and advisor on technology that is often Internet based (browser, mobile, tablet, etc.). Open Source courses through my veins and my work to adapt the principles, philosophies, and methodologies of Open Source to new team management and team.  
 
