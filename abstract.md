@@ -2,7 +2,6 @@
 published: true
 title: Abstract
 layout: default
-image: images/D7_D8_Events.png
 ---
 
 This paper details how open source software (OSS) development communities maintain an ecosystem
@@ -34,6 +33,12 @@ at events, and actions undertaken by boundary organizations and project leads we
 picture of the rise of these communities thus providing a blueprint to the practicing manager on the cultivation
 and maintenance of their innovation ecosystem.
 
+![Bubble chart demonstrating a migration in motivations](images/D7_D8_Events.png)
+*Figure 1*: Demonstrates a progression of each project towards a balance of motivations.
+
+![Bar chart showing contributions to Drupal core with a line chart correlating event information](images/xy-innovation-grid.jpg)
+*Figure 2*: Contributions to the Drupal project follow event activity in the ecosystem often brokered by the boundary
+organization.
 
 
 
