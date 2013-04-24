@@ -2,6 +2,7 @@
 published: true
 title: Abstract
 layout: default
+image: images/D7_D8_Events.png
 ---
 
 This paper details how open source software (OSS) development communities maintain an ecosystem
