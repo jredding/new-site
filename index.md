@@ -1,5 +1,5 @@
 ---
-title: 'Jacob Redding'
+title: ''
 layout: default
 ---
 
