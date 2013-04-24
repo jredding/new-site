@@ -1,6 +1,7 @@
 ---
 title: 'About'
 layout: default
+published: true
 ---
 I'm a strategist, developer, analyst, and advisor on technology that is often Internet based (browser, mobile, tablet, etc.). Open Source courses through my veins and my work to adapt the principles, philosophies, and methodologies of Open Source to new team management and team.  
 
