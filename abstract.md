@@ -16,12 +16,12 @@ Drawing on the work of Shah (2006), O’Mahony and Bechky (2008), and others com
 data with founders and lead developers of the Drupal and Joomla projects, we seek to understand the pivots
 and turns in the projects that have led to high levels of innovation and the role of boundary organizations. The
 boundary organizations play several important functions: 
-1. Support infrastructure that allows project leads to
+1.   Support infrastructure that allows project leads to
 hand off repeatable processes to the boundary organization thus reducing their burden and providing
 increased opportunity to focus on the development of the project
-2. Maintenance of incentive systems that
+2.   Maintenance of incentive systems that
 reflect, actively cultivate, and perpetuate the ideals of the community 
-3. A collective gathering point for
+3.   A collective gathering point for
 project leads to provide guidance on the culture and ethos of the community to maintain motivation.
 
 Preliminary research has demonstrated that the boundary organizations engage in direct and indirect activities
