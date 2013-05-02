@@ -1,3 +1,8 @@
+---
+layout: default
+title: Events
+published: true
+---
 
 <pre>
 corr   d8commits totalevents  regevents relevents sprintevents trngevents ugevents virtevents if datenew >= d(1feb2011) & datenew <= d
