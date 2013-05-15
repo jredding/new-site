@@ -3,7 +3,7 @@ layout: default
 title: Examination of Data
 published: true
 ---
-last update: page.date
+last update: {{ page.date }}
 As research progresses this page will serve as a dumping ground for the foundational information and data we derived from the data analysis/mining. The information or data may not make sense and it will not serve as a conclusive definition or direction of the overall research. What you can derive from this page is the direction of the research and draw your own conclusions from the information or data provided. Opinions, comments, and suggestions are [always welcome](/contact "always welcome"). 
 
 Please keep in mind that this research only looks at contributions to the core of Drupal and Joomla!.
