@@ -8,15 +8,15 @@ Under the guidance of and in collaboration with great professors at [Portland St
 The current research project is entitled: "Fostering Resilent Community Innovation: How Boundary Organizations balance Intrinsic and Extrinsic Motivation" 
  
 
-[Melissa M. Appleyard] (http://www.pdx.edu/sba/melissa-appleyard "Melissa Appleyard")
+[Melissa M. Appleyard](http://www.pdx.edu/sba/melissa-appleyard "Melissa Appleyard")
 Ames Professor in the Management of Innovation and Technology
 School of Business Administration
 
-[Erica Wagner] (http://www.pdx.edu/sba/erica-wagner "Erica Wagner)
+[Erica Wagner](http://www.pdx.edu/sba/erica-wagner "Erica Wagner)
 Ahlbrandt Professor
 School of Business Administration
 
-[Jon Perr] (http://http://www.perrspectives.com "Jon Perr")
+[Jon Perr](http://http://www.perrspectives.com "Jon Perr")
 JP Consulting
 
 ## Abstract of current paper
