@@ -12,7 +12,7 @@ The current research project is entitled: "Fostering Resilent Community Innovati
 Ames Professor in the Management of Innovation and Technology
 School of Business Administration
 
-[Erica Wagner](http://www.pdx.edu/sba/erica-wagner "Erica Wagner)
+[Erica Wagner](http://www.pdx.edu/sba/erica-wagner "Erica Wagner")
 Ahlbrandt Professor
 School of Business Administration
 
