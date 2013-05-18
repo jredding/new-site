@@ -19,8 +19,15 @@ School of Business Administration
 [Jon Perr](http://http://www.perrspectives.com "Jon Perr")
 JP Consulting
 
-## Abstract of current paper
-
+While open, collaborative innovation has taken root in numerous industry ecosystems, the maturing practices
+followed in open source software (OSS) hold lessons for innovation resiliency. This study compares how two
+OSS boundary organizations approach “community innovation,” i.e., collaborative development within a
+defined ecosystem. One of their challenges is striking a balance between motivating their collection of
+developers through intrinsic versus extrinsic means. We posit that getting this balance right will ensure the
+source code of each project remains healthy while peripheral innovations are developed to meet specific needs
+of segments in the ecosystem. We will use survey and interview data to analyze these relationships. The
+findings inform the practicing manager trying to determine the appropriate incentives in the context of
+community innovation.
 
 
 ## Standing on the shoulders of giants
