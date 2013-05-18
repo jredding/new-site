@@ -11,11 +11,9 @@ The current research project is entitled: "Fostering Resilent Community Innovati
 [Melissa M. Appleyard](http://www.pdx.edu/sba/melissa-appleyard "Melissa Appleyard")
 Ames Professor in the Management of Innovation and Technology
 School of Business Administration
-
 [Erica Wagner](http://www.pdx.edu/sba/erica-wagner "Erica Wagner")
 Ahlbrandt Professor
 School of Business Administration
-
 [Jon Perr](http://http://www.perrspectives.com "Jon Perr")
 JP Consulting
 
