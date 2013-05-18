@@ -19,8 +19,6 @@ School of Business Administration
 [Jon Perr](http://http://www.perrspectives.com "Jon Perr")
 JP Consulting
 
-Updated
-
 ## Standing on the shoulders of giants
 Several great professors and schools have begun to study and teach Open Source models within their classrooms and schools. The following professors have influenced our work 
 
@@ -30,18 +28,4 @@ Several great professors and schools have begun to study and teach Open Source m
 
 ## Literature Overview
 
-In the context of community innovation, whether it occurs upstream during blue sky exploration and standards
-development or downstream in new product development, the tension between cooperation and competition
-frequently surfaces. While the power of the collective mind can heighten the quality and pace of innovation
-(Allen, 1983; Raymond, 1999), inter-firm collaboration often is tempered by who is going to capture the value
-created (Appleyard, 1996; Schrader, 1991).
-The setting of OSS does not escape this tension (Long, 2006; Shah, 2006; Shaikh and Cornford, 2010;
-Staudenmayer, Tripsas, and Tucci, 2005; West, 2003). While numerous OSS projects were initially fueled by
-altruistic motivations often for improved functionality at a lower price point, commercial interests typically
-become more pronounced as the projects mature and ecosystems grow up around them. Our research is
-focused on how cooperation and competition is balanced at the level of the people writing the code, and how
-organizational structure and coordination mechanisms (Long, 2006) such as ‘boundary organizations’ link
-these developers with the larger ecosystem thereby influencing this balance (O’Mahony and Bechky, 2008;
-Shah, 2006). The balance between intrinsic and extrinsic motivation can have a pronounced effect on a
-developer’s willingness to contribute code (Shah, 2006).
 
