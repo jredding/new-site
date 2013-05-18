@@ -11,9 +11,11 @@ The current research project is entitled: "Fostering Resilent Community Innovati
 [Melissa M. Appleyard](http://www.pdx.edu/sba/melissa-appleyard "Melissa Appleyard")
 Ames Professor in the Management of Innovation and Technology
 School of Business Administration
+<br />
 [Erica Wagner](http://www.pdx.edu/sba/erica-wagner "Erica Wagner")
 Ahlbrandt Professor
 School of Business Administration
+<br />
 [Jon Perr](http://http://www.perrspectives.com "Jon Perr")
 JP Consulting
 
@@ -22,6 +24,7 @@ JP Consulting
 Several great professors and schools have begun to study and teach Open Source models within their classrooms and schools. The following professors have influenced our work 
 
 [Henry Chesbrough](http://facultybio.haas.berkeley.edu/faculty-list/chesbrough-henry) (Berkeley)
+<br />
 [Eric Von Hippel](http://web.mit.edu/evhippel/www/) (MIT)
 
 ## Literature Overview
