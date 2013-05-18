@@ -19,6 +19,7 @@ School of Business Administration
 [Jon Perr](http://http://www.perrspectives.com "Jon Perr")
 JP Consulting
 
+Updated
 
 ## Standing on the shoulders of giants
 Several great professors and schools have begun to study and teach Open Source models within their classrooms and schools. The following professors have influenced our work 
