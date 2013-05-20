@@ -23,14 +23,15 @@ Our research is focusing on many data points including the following:
 
 
 ## Drupal
-We began our quantitative analysis on data from the Drupal project. To begin we looked for correlations in the following data sets to contributions to both Drupal 7 and Drupal 8 over different periods of time: 
-* **Drupal.org Users**
+We began our quantitative analysis on data from the Drupal project. To begin we looked for correlations in the following data sets and looked for correlations to contributions to Drupal 7 and Drupal 8 over different periods of time: 
+**Drupal.org Users**
 * Raw users (all signups)
 * Active users 
 * Active users (those that logged in)
 * Engaged users (Logged in more than 3X)
 * for fun: # of blocked users (you never know)
-* **Events** (pulled from groups.drupal.org)
+
+**Events** (pulled from groups.drupal.org)
 * Total events (sum of categories below)
 * Sprints
 * Trainings
@@ -39,18 +40,24 @@ We began our quantitative analysis on data from the Drupal project. To begin we 
 * Uncategorized events 
 
 We correlated each of these items to multiple different time periods
-* Drupal 7 Development time
-* Drupal 7 Innovation time
-* Drupal 8 Development time
-* Drupal 8 Innovation time
-To account for inconsistencies in our data sets each time period was further broken down to ensure we were looking at a full set of correlatable data. For example, information about sprint events was not recorded evenly across the full Drupal 7 development cycle so analysis was only performed on the available time periods. 
+* Drupal 7 Development time (Time of first commit to release date)
+* Drupal 7 Innovation time  (Drupal 6 freeze date to Drupal 7 freeze date)
+* Drupal 8 Development time (time of first commit to release date)
+* Drupal 8 Innovation time  (Drupal 7 freeze data to Drupal 8 freeze date)
+To account for inconsistencies in our data sets each time period was further broken down to ensure we were looking at a complete set of correlatable data. For example, information about sprint events was not recorded evenly across the full Drupal 7 development cycle so analysis was only performed on the time period with a full set of data. 
 
 In addition analysis included looking at lagged data. For example, events occuring in the month of January may have attributed to contributions in March, April, or May. 
 
 
 ## Let's get on with it
+We started with a simple comparison of the number of events per month graphed alongside the number of contributions to Drupal 7 and Drupal 8. As you can see there appears to be a correlation between the number of events occuring and contributions to Drupal core (i.e. the more events that occur the more contributions there are). This correlation appears to be stronger in Drupal 7 than in Drupal 8. 
 
-Analysis was done with STATA. 
+![Number of contributions to Drupal 7 and Drupal 8 plotted against number of events](http://jredding.github.io/new-site/research/images/D7_D8_Events.png "Innovation Grid")
+
+
+Armed with this quick graph [Laura Olson](www.linkedin.com/pub/laura-olson/7/337/296) went out to statistically prove or disprove what we were seeing. What is really driving contributions to core? 
+
+*Analysis was done with [STATA](http://www.stata.com/)*
 
     corr  d7commits totalevents  regevents relevents sprintevents trngevents ugevents virtevents if datenew >= d(2feb2008) & datenew <= d(> 31Jan2011)
 (obs=35)
