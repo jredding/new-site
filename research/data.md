@@ -24,6 +24,7 @@ Our research is focusing on many data points including the following:
 
 ## Drupal
 We began our quantitative analysis on data from the Drupal project. To begin we looked for correlations in the following data sets and looked for correlations to contributions to Drupal 7 and Drupal 8 over different periods of time: 
+
 **Drupal.org Users**
 * Raw users (all signups)
 * Active users 
@@ -44,6 +45,7 @@ We correlated each of these items to multiple different time periods
 * Drupal 7 Innovation time  (Drupal 6 freeze date to Drupal 7 freeze date)
 * Drupal 8 Development time (time of first commit to release date)
 * Drupal 8 Innovation time  (Drupal 7 freeze data to Drupal 8 freeze date)
+
 To account for inconsistencies in our data sets each time period was further broken down to ensure we were looking at a complete set of correlatable data. For example, information about sprint events was not recorded evenly across the full Drupal 7 development cycle so analysis was only performed on the time period with a full set of data. 
 
 In addition analysis included looking at lagged data. For example, events occuring in the month of January may have attributed to contributions in March, April, or May. 
