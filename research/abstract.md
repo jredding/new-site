@@ -40,11 +40,13 @@ picture of the rise of these communities thus providing a blueprint to the pract
 and maintenance of their innovation ecosystem.
 
 ![Bubble chart demonstrating a migration in motivations](images/D7_D8_Events.png)
-*Figure 1*: Demonstrates a progression of each project towards a balance of motivations.
+*Figure 1*: Contributions to the Drupal project follow event activity in the ecosystem often brokered by the boundary
+organization.
 
 ![Bar chart showing contributions to Drupal core with a line chart correlating event information](images/xy-innovation-grid.jpg)
-*Figure 2*: Contributions to the Drupal project follow event activity in the ecosystem often brokered by the boundary
-organization.
+*Figure 2*: Demonstrates a progression of each project towards a balance of motivations.
+
+
 
 
 ## References
