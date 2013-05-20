@@ -24,20 +24,26 @@ Our research is focusing on many data points including the following:
 
 ## Drupal
 We began our quantitative analysis on data from the Drupal project. To begin we looked for correlations in the following data sets to contributions to both Drupal 7 and Drupal 8 over different periods of time: 
-* Drupal.org Users
-** Raw users (all signups)
-** Active users 
-** Active users (those that logged in)
-** Engaged users (Logged in more than 3X)
-** for fun: # of blocked users (you never know)
-* Events (pulled from groups.drupal.org)
-** Total events (sum of categories below)
-** Sprints
-** Trainings
-** User Group meetings
-** Virtual events
-** Uncategorized events 
-** 
+* **Drupal.org Users*
+* Raw users (all signups)
+* Active users 
+* Active users (those that logged in)
+* Engaged users (Logged in more than 3X)
+* for fun: # of blocked users (you never know)
+* **Events** (pulled from groups.drupal.org)
+* Total events (sum of categories below)
+* Sprints
+* Trainings
+* User Group meetings
+* Virtual events
+* Uncategorized events 
+
+We correlated each of these items to multiple different time periods
+* Drupal 7 Development time
+* Drupal 7 Innovation time
+* Drupal 8 Development time
+* Drupal 8 Innovation time
+
 
 Laura crunched some great numbers for the work today. We looked at correlations between the number of events that occured every month to the number of contributions that occurred. This preliminary set of correlations is done on a month by month basis without a lag but in subsequent analysis she looked at lag times (ex. event in January but contributions in March, April, or May). The goal is to determine if there are any trends in encouraging contributions. 
 
