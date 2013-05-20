@@ -61,28 +61,29 @@ Armed with this quick graph [Laura Olson](www.linkedin.com/pub/laura-olson/7/337
 
 *Analysis was done with [STATA](http://www.stata.com/)*
 
+The first analysis was a raw look at all events over the period of Drupal 7's development.
+
     corr  d7commits totalevents  regevents relevents sprintevents trngevents ugevents virtevents if datenew >= d(2feb2008) & datenew <= d(> 31Jan2011)
-(obs=35)
+(obs=35) *35 Months of events & contributions*
 
                  | d7comm~s totale~s regeve~s releve~s sprint~s trngev~s ugevents
     -------------+---------------------------------------------------------------
        d7commits |   1.0000
-     totalevents |   0.3880   1.0000
-       regevents |   0.2734   0.2747   1.0000
+     totalevents |   0.4388   1.0000
+       regevents |   0.3182   0.3341   1.0000
     sprintevents |        .        .        .        .        .
-      trngevents |   0.3005   0.8912   0.2197   0.4921        .   1.0000
-        ugevents |   0.3570   0.9893   0.1727   0.5965        .   0.8446   1.0000
-      virtevents |   0.5153   0.5004  -0.0311  -0.0088        .   0.5256   0.4574
-                 | virtev~s
+      trngevents |   0.3375    0.891   0.2602   0.4908        .   1.0000
+        ugevents |   0.4102   0.9906   0.2408   0.5772        .   0.8484   1.0000
+      virtevents |   0.5402   0.5312   0.0217   0.0017        .   0.5466   0.4916
     -------------+---------
       virtevents |   1.0000
 
 
-And the Drupal 8 correlations 
+Next we ran the same analysis against the Drupal 8 development period up until the end of March, 2013.  
 
     . corr   d8commits totalevents  regevents relevents sprintevents trngevents ugevents virtevents if datenew >= d(1feb2011) & datenew <= d(>31Mar2013)
 
-(obs=26)
+(obs=26) *26 months of events & contributions*
 
                  | d8comm~s totale~s regeve~s releve~s sprint~s trngev~s ugevents
     -------------+---------------------------------------------------------------
@@ -94,8 +95,9 @@ And the Drupal 8 correlations
       trngevents |   0.2339   0.5274   0.1135   0.0014   0.2053   1.0000
         ugevents |   0.3134   0.9304   0.2721   0.5226  -0.0394   0.3540   1.0000
       virtevents |   0.6111   0.6727   0.2568   0.3955   0.4434   0.3417   0.4638
-                 | virtev~s
     -------------+---------
       virtevents |   1.0000
 
+
+gm
 
