@@ -43,4 +43,3 @@ organizational structure and coordination mechanisms (Long, 2006) such as ‘bou
 these developers with the larger ecosystem thereby influencing this balance (O’Mahony and Bechky, 2008;
 Shah, 2006). The balance between intrinsic and extrinsic motivation can have a pronounced effect on a
 developer’s willingness to contribute code (Shah, 2006).
-
