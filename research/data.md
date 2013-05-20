@@ -5,7 +5,7 @@ published: true
 ---
 This page is a dumping ground for the foundational information and data we derived from analysis and/or mining. The information or data may not make sense and it will not serve as a conclusive definition or direction of the overall research. What this page can tell you are potential directions of the research and you may draw your own conclusions from the information and data. Opinions, comments, and suggestions are [always welcome](/contact "Contact Form"). 
 
-Please keep in mind that this research only looks at contributions to the *core* of Drupal and Joomla!.
+Please keep in mind that this research only looks at the contributions to the **core** of Drupal and Joomla!.
 
 Our approach
 ------------------
@@ -14,12 +14,30 @@ Our approach to understanding how intrinsic and extrinsic motivations influence 
 ### Eh? What?
 In other words we think there is something behind-the-scenes of each project that bubbles up through organizations such as the Drupal Association (Drupal) and Open Source Matters (Joomla!) that helps to indirectly or directly keep pushing the projects forward. We're looking to prove that with data by, for example, showing a direct correlation between conferences and new contributions or an increase in 
 
-Our research is focusing on many data points including the following
+Our research is focusing on many data points including the following:
 * Total contributions to core by version, date, and individuals
-* Total number of events in each ecosystems (usergroup meetings, sprints, trainings, conferences, etc.)
-* Core developer time in the project,  
-* Core developer 
+* Total number of events in each ecosystem (usergroup meetings, sprints, trainings, conferences, etc.)
+* Average tenure of a core contributor  
+* Economics of contributing to core
+** # of companies contributing, # of developers working for each company, etc. 
 
+
+## Drupal
+We began our quantitative analysis on data from the Drupal project. To begin we looked for correlations in the following data sets to contributions to both Drupal 7 and Drupal 8 over different periods of time: 
+* Drupal.org Users
+** Raw users (all signups)
+** Active users 
+** Active users (those that logged in)
+** Engaged users (Logged in more than 3X)
+** for fun: # of blocked users (you never know)
+* Events (pulled from groups.drupal.org)
+** Total events (sum of categories below)
+** Sprints
+** Trainings
+** User Group meetings
+** Virtual events
+** Uncategorized events 
+** 
 
 Laura crunched some great numbers for the work today. We looked at correlations between the number of events that occured every month to the number of contributions that occurred. This preliminary set of correlations is done on a month by month basis without a lag but in subsequent analysis she looked at lag times (ex. event in January but contributions in March, April, or May). The goal is to determine if there are any trends in encouraging contributions. 
 
